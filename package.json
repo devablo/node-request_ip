@@ -1,0 +1,15 @@
+{
+  "name": "devablo.nodejs.requestip",
+  "version": "1.0.0",
+  "description": "nodejs request ip demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Aaron Morey",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.6.6",
+    "request-ip": "^2.0.2"
+  }
+}
